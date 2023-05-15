@@ -1,5 +1,8 @@
-Welcome to Lumache's documentation!
+Welcome to Luan Lab's documentation!
 ===================================
+
+This will be a document for Luan Lab's member to share, teach and record the experiment procedures.
+
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
 that creates recipes mixing random ingredients.
